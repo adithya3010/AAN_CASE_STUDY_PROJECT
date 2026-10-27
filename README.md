@@ -5,7 +5,7 @@
 
 
 
-## 1. Project Context & Official Problem Statement 
+## 1. Project Context &  Problem Statement 
 
 ### Problem Statement Background
 Subsurface ocean temperature is a fundamental variable for understanding ocean circulation, upper-ocean heat content, stratification, climate variability, air-sea interaction, and marine ecosystems. Accurate representation of the vertical ocean temperature is essential for applications such as marine heatwave monitoring, fisheries management, and data assimilation.
