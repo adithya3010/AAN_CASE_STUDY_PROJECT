@@ -23,7 +23,7 @@ contain indirect signatures of subsurface ocean processes through physical mecha
 
 Recent advances in Artificial Intelligence (AI), Deep Learning (DL), and representation learning enable the generation of **satellite embeddings**, where multidimensional surface observations are transformed into compact latent representations that capture hidden ocean dynamics. Such embeddings learn nonlinear relationships between surface observations and subsurface ocean structure far more effectively than conventional statistical or machine learning approaches.
 
-### Official Scope & Specifications
+### Scope & Specifications
 - **Objective:** Develop a Satellite Embedding-Based Deep Learning Framework to reconstruct depth-wise subsurface ocean temperature from daily surface satellite observations.
 - **Geographic Domain:** North Indian Ocean (NIO) $\to$ `5.0°N–30.0°N, 45.0°E–105.0°E` (Arabian Sea, Bay of Bengal, and Equatorial North Indian Ocean).
 - **Spatial Resolution:** Canonical `0.25° × 0.25°` grid ($101 \text{ lat} \times 241 \text{ lon}$).
